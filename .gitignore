@@ -1,0 +1,5 @@
+__pycache__/
+dist/
+jdev2026_python_wheel_lecha.egg-info/
+.gitignorre
+.idea/
